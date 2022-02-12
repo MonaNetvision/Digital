@@ -529,7 +529,7 @@ em {
 	height: 200px;
 }
 #tooplate_header {
-	width: 990px;
+	width: 1090px;
 	height: 200px;
 	padding: 0;
 	margin: 0 auto;
@@ -575,17 +575,18 @@ em {
 
 #tooplate_menu {
 	clear: both;
-	width: 1000px;
+	width: 1090px;
 	height: 90px;
 	padding: 3px 25px;
-	background: url(../images/tooplate_menu.png) no-repeat;
+	background: #2d5f7d;
+	border-radius: 14px;
 }
 #tooplate_menu #home_menu a {
 	float: left;
 	display: block;
 	width: 46px;
 	height: 46px;
-	margin-right: 40px;
+	margin-right: -5px;
 	background: url(../images/tooplate_home.png) no-repeat;
 }
 #tooplate_menu #home_menu a:hover {
