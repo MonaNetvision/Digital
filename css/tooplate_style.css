@@ -772,7 +772,7 @@ em {
 .dropdown-menu {
     position: absolute;
     top: 40px;
-    left: -485px;
+    left: -660px;
     z-index: 1000;
     min-width: 210px;
     padding: 5px 0;
